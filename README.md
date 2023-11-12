@@ -19,7 +19,7 @@ Discord Message Checker is a simple tool that allows you to monitor your Discord
 - Monitor Discord messages in a specified channel.
 - Copy the latest message content to the clipboard.
 - Play a beep sound when a new message is detected.
-- Open Steam when a new message is received.
+- Open a link when a new message is received.
 
 ## Getting Started
 
